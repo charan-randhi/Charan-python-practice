@@ -1,1 +1,3 @@
 # Charan-python-practice
+
+This Repository contains my code and assignments...
